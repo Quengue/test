@@ -1,2 +1,3 @@
-idade = int(ano_nascimento-2025) = input ("Que ano que voce nasceu? ")
+ano_nascimento = input ("Que ano que voce nasceu? ")
+print int(2025-ano_nascimento)
 print (idade)
